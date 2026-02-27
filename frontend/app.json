@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "VoyageHub",
+    "slug": "voyagehub",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/VH_icon2.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/VH_splashscr2.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0f172a"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/VH_icon2.png",
+        "backgroundColor": "#0f172a"
+      }
+    },
+    "web": {
+      "favicon": "./assets/VH_icon2.png"
+    }
+  }
+}
